@@ -1,30 +1,47 @@
-# kavinpras.github.io
-
-!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<style> "background-color:violet;"</style>
-<meta charset="utf-8">
-<title>Hello, World!</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Name's Bio</title>
+<link rel="stylesheet" href="styles_1.css">
 </head>
 <body>
-Hello, World!
+<header>
+<img src="profile-picture.png" alt="Your Name" class="profile-img">
+<h1>Kavin Prasanna</h1>
+<p>Risktaker, Roadrunner & Hustler</p>
+<p>Follow me on social media:</p>
+<p>
+<a href="https://instagram.com/_kavin44"
+target="_blank">Instagram</a> |
 
-<img src="Frank-Herbert-September-27-1982.jpg">
-
-<h1>About</h1>
-<p style="color:blue;"> My name is Kavin Prasanna and I'm a third year student at Claremont McKenna College. I enjoy watching sports, listening to music, and going to the movies with my friends.
-In my past I have worked on several pieces of texts; some being a <cite> Short Story </cite> and <cite> Multiverse Quantum Entanglement Theory </cite>
+<a href="https://linkedin.com/in/kavinprasanna"
+target="_blank">LinkedIn</a>
 </p>
-
-<h2> My education </h2>
-<p> I went to Hopkinton High School in Massachusetts </p>
-
-<a href="https://www.linkedin.com/in/kavinprasanna/" target="_blank"> <img src="linkedinicon.png" alt="Kavin's LinkedIn" ></a>
-<a href="mailto:kavinprasanna44@gmail.com" target="_blank" ><img src="gmail icon.png" alt="Kavin's GMail" ></a>
-<a href="https://instagram.com/_kavin44" target="_blank" > <img src="Instagram_icon.png" alt="Kavin's Instagram" ></a>
-<a href="https://instagram.com/_kavin44" target="_blank" > <img src="Instagram_icon.png" alt="Kavin's Instagram" ></a>
-
+</header>
+<main>
+<section class="bio">
+<h2>About Me</h2>
+<p>Hello! I'm Kavin, a student at Claremont McKenna College with a passion
+for the pursuit of knowledge and monetary goods.
+I've been hustling for over 5 years
+and love what I do.</p>
+<!-- Add more paragraphs as needed -->
+</section>
+<section class="projects">
+<h2>Projects</h2>
+<ul>
+<li><a href="#">Project One</a></li>
+<li><a href="#">Project Two</a></li>
+<li><a href="#">Project Three</a></li>
+<!-- Add more list items as needed -->
+</ul>
+</section>
+</main>
+<footer>
+<p>Contact me at <a
+href="mailto:kavinprasanna44@gmail.com">kavinprasanna44@gmail.com</a></p>
+</footer>
 </body>
 </html>
-
