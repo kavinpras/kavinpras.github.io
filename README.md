@@ -19,6 +19,8 @@ In my past I have worked on several pieces of texts; some being a <cite> Short S
 
 <h2> My education </h2>
 <p> I went to Hopkinton High School in Massachusetts </p>
+
+<float> src:kavinpic; href:"00-ibpmHmWGgpltCKg2Sd78nsY-7jifN-wKj2HwojMTptl-ppgDDXmzul-2ya8lqYlwKwg5ydwHipy3aIZBf9dNYQ.jpeg;" </float>
 </body>
 </html>
 
