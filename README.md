@@ -20,7 +20,7 @@ In my past I have worked on several pieces of texts; some being a <cite> Short S
 <h2> My education </h2>
 <p> I went to Hopkinton High School in Massachusetts </p>
 
-<img src:"kavinpic.jpeg" alt:"Explore Kavin's Sports Journey" >
+<img src="kavinpic.jpeg" alt="Explore Kavin's Sports Journey" >
 </body>
 </html>
 
