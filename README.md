@@ -20,7 +20,10 @@ In my past I have worked on several pieces of texts; some being a <cite> Short S
 <h2> My education </h2>
 <p> I went to Hopkinton High School in Massachusetts </p>
 
-<img src="kavinpic.jpeg" alt="Explore Kavin's Sports Journey" >
+<a href="https://www.linkedin.com/in/kavinprasanna/" >"<img src="linkedinicon.png" alt="Kavin's LinkedIn" ></a>
+<a href="mailto:kavinprasanna44@gmail.com" >"<img src="gmail icon.png" alt="Kavin's GMail" ></a>
+<a href="https://instagram.com/_kavin44" >"<img src="instagram_icon.png" alt="Kavin's Instagram" ></a>
+
 </body>
 </html>
 
