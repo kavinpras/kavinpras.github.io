@@ -1,47 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Your Name's Bio</title>
-<link rel="stylesheet" href="styles_1.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kavin Prasanna - Bio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body>
-<header>
-<img src="profile-picture.png" alt="Your Name" class="profile-img">
-<h1>Kavin Prasanna</h1>
-<p>Risktaker, Roadrunner & Hustler</p>
-<p>Follow me on social media:</p>
-<p>
-<a href="https://instagram.com/_kavin44"
-target="_blank">Instagram</a> |
 
-<a href="https://linkedin.com/in/kavinprasanna"
-target="_blank">LinkedIn</a>
-</p>
-</header>
-<main>
-<section class="bio">
-<h2>About Me</h2>
-<p>Hello! I'm Kavin, a student at Claremont McKenna College with a passion
-for the pursuit of knowledge and monetary goods.
-I've been hustling for over 5 years
-and love what I do.</p>
-<!-- Add more paragraphs as needed -->
-</section>
-<section class="projects">
-<h2>Projects</h2>
-<ul>
-<li><a href="#">Project One</a></li>
-<li><a href="#">Project Two</a></li>
-<li><a href="#">Project Three</a></li>
-<!-- Add more list items as needed -->
-</ul>
-</section>
-</main>
-<footer>
-<p>Contact me at <a
-href="mailto:kavinprasanna44@gmail.com">kavinprasanna44@gmail.com</a></p>
-</footer>
+    <header class="hero">
+        <h1>I'm Kavin Prasanna</h1>
+    </header>
+
+    <main>
+        <section class="about-me">
+            <h2>About Me</h2>
+            <p>Hello! I'm **Kavin**, a student at **Claremont McKenna College** with a passion for the pursuit of **knowledge and monetary goods**.</p>
+            <p>I've been **hustling for over 5 years** and love what I do. My motto is **Risktaker, Roadrunner & Hustler**.</p>
+        </section>
+
+        <section class="contact">
+            <h2>Connect with Me</h2>
+            <div class="social-icons">
+                <a href="https://instagram.com/_kavin44" target="_blank" aria-label="Instagram Profile">
+                    <i class="fab fa-instagram"></i>
+                </a>
+                <a href="https://linkedin.com/in/kavinprasanna" target="_blank" aria-label="LinkedIn Profile">
+                    <i class="fab fa-linkedin-in"></i>
+                </a>
+                <a href="mailto:kavinprasanna44@gmail.com" target="_blank" aria-label="Send Email">
+                    <i class="fas fa-envelope"></i>
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Kavin Prasanna</p>
+    </footer>
 </body>
 </html>
