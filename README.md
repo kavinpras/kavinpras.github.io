@@ -23,6 +23,7 @@ In my past I have worked on several pieces of texts; some being a <cite> Short S
 <a href="https://www.linkedin.com/in/kavinprasanna/" target="_blank"> <img src="linkedinicon.png" alt="Kavin's LinkedIn" ></a>
 <a href="mailto:kavinprasanna44@gmail.com" target="_blank" ><img src="gmail icon.png" alt="Kavin's GMail" ></a>
 <a href="https://instagram.com/_kavin44" target="_blank" > <img src="Instagram_icon.png" alt="Kavin's Instagram" ></a>
+<a href="https://instagram.com/_kavin44" target="_blank" > <img src="Instagram_icon.png" alt="Kavin's Instagram" ></a>
 
 </body>
 </html>
