@@ -34,7 +34,7 @@
         main {
             padding: 40px 20px;
             background: rgba(0, 0, 0, 0.75);
-           <!-- border-top: 5px solid #007bff; --!>
+            border-top: 5px solid #007bff;
             box-shadow: 0 -10px 20px rgba(0, 0, 0, 0.5);
         }
 
