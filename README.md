@@ -1,13 +1,13 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kavin Prasanna - Bio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
+    
     <style>
+        /* BASE STYLES */
         body {
+            /* Keep the custom background image */
             background-image: url('bluespace.jpg');
             background-size: cover;
             background-attachment: fixed;
@@ -18,6 +18,7 @@
             text-align: center;
         }
 
+        /* HEADER & HERO SECTION */
         .hero {
             min-height: 90vh;
             display: flex;
@@ -31,9 +32,10 @@
         .hero h1 {
             font-size: 4.5em;
             margin: 0;
+            /* Text shadow/glow removed for simplicity */
         }
 
-       
+        /* MAIN CONTENT */
         main {
             padding: 40px 20px;
             background: rgba(0, 0, 0, 0.75);
@@ -49,11 +51,12 @@
 
         h2 {
             color: #4dcfff;
+            /* Underline removed for simplicity */
             padding-bottom: 10px;
             margin-bottom: 20px;
         }
 
-       
+        /* SOCIAL ICON STYLES */
         .social-icons {
             display: flex;
             justify-content: center;
@@ -61,18 +64,20 @@
             margin-top: 20px;
         }
 
-        .social-icons a {
-            color: #FFFFFF; 
-            font-size: 2.5em; 
-            transition: color 0.3s ease-in-out, transform 0.3s ease-in-out;
+        /* CUSTOM IMAGE SIZE (50px by 50px) */
+        .social-icon {
+            width: 50px;
+            height: 50px;
+            /* Simple transition for hover effect */
+            transition: transform 0.2s ease-in-out; 
+            border-radius: 5px; /* Added rounded corners */
         }
 
-        .social-icons a:hover {
-            color: #4dcfff; 
+        .social-icon:hover {
             transform: scale(1.1);
         }
 
-       
+        /* FOOTER */
         footer {
             padding: 10px;
             background: #000000;
@@ -88,28 +93,37 @@
 <body>
 
     <header class="hero">
+        <!-- The main title, centered and prominent -->
         <h1>I'm Kavin Prasanna</h1>
     </header>
 
     <main>
         <section class="about-me">
             <h2>About Me</h2>
-            <p>Hello! I'm Kavin Prasanna, a student at Claremont McKenna College with a passion for the pursuit of knowledge.</p>
+            <p>Hello! I'm Kavin, a student at Claremont McKenna College with a passion for the pursuit of knowledge.</p>
             <p>I am also on two CMS teams: Football and Track&Field.</p>
         </section>
 
+        <!-- Social Media Contact Section using Image Tags -->
         <section class="contact">
             <h2>Connect with Me</h2>
             <div class="social-icons">
+                
+                <!-- Instagram Image Icon -->
                 <a href="https://instagram.com/_kavin44" target="_blank" aria-label="Instagram Profile">
-                    <i class="fab fa-instagram"></i>
+                    <img src="instagram_icon.png" alt="Instagram Icon" class="social-icon">
                 </a>
-                <a href="https://linkedin.com/in/kavinprasanna" target="_blank" aria-label="LinkedIn Profile">
-                    <i class="fab fa-linkedin-in"></i>
+                
+                <!-- LinkedIn Image Icon -->
+                <a href="https://linkedin.com/in/" target="_blank" aria-label="LinkedIn Profile">
+                    <img src="linkedinicon.png" alt="LinkedIn Icon" class="social-icon">
                 </a>
-                <a href="mailto:kavinprasanna44@gmail.com" target="_blank" aria-label="Send Email">
-                    <i class="fas fa-envelope"></i>
+                
+                <!-- Gmail Image Icon -->
+                <a href="mailto:44@gmail.com" target="_blank" aria-label="Send Email">
+                    <img src="gmail icon.png" alt="Gmail Icon" class="social-icon">
                 </a>
+                
             </div>
         </section>
     </main>
