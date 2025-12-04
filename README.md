@@ -111,7 +111,7 @@
                 
                 <!-- Instagram Image Icon -->
                 <a href="https://instagram.com/_kavin44" target="_blank" aria-label="Instagram Profile">
-                    <img src="instagram_icon.png" alt="Instagram Icon" class="social-icon">
+                    <img src="Instagram_icon.png" alt="Instagram Icon" class="social-icon">
                 </a>
                 
                 <!-- LinkedIn Image Icon -->
