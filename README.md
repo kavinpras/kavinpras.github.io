@@ -19,7 +19,7 @@
         }
 
         .hero {
-            min-height: 50vh;
+            min-height: 90vh;
             display: flex;
             justify-content: center;
             align-items: center;
