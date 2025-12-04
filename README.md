@@ -7,46 +7,36 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
     <style>
-        /*
-            The space background image and styling for the entire body
-        */
         body {
-            /* Using an external image for a space background */
             background-image: url('bluespace.jpg');
-            background-size: cover; /* Ensures the image covers the entire body */
-            background-attachment: fixed; /* Keeps the background static when scrolling */
-            color: #FFFFFF; /* White text for contrast */
+            background-size: cover;
+            background-attachment: fixed;
+            color: #FFFFFF;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            text-align: center; /* Center content globally */
+            text-align: center;
         }
 
-        /*
-            Styling for the main title section
-        */
         .hero {
-            min-height: 100vh; /* Make the section take up at least the full viewport height */
+            min-height: 50vh;
             display: flex;
             justify-content: center;
             align-items: center;
             flex-direction: column;
-            padding: 20px;
-            background: rgba(0, 0, 0, 0.4); /* Subtle overlay for better text readability */
+            padding: 10px;
+            background: rgba(0, 0, 0, 0.4);
         }
 
         .hero h1 {
-            font-size: 4.5em; /* Large text for the main headline */
+            font-size: 4.5em;
             margin: 0;
-            text-shadow: 0 0 10px #007bff, 0 0 20px #007bff; /* Neon glow effect */
+            text-shadow: 0 0 10px #007bff, 0 0 20px #007bff;
         }
 
-        /*
-            Styling for the main content area (About Me, Connect)
-        */
+       
         main {
             padding: 40px 20px;
-            /* Semi-transparent background for better readability over the space image */
             background: rgba(0, 0, 0, 0.75);
             border-top: 5px solid #007bff;
             box-shadow: 0 -10px 20px rgba(0, 0, 0, 0.5);
@@ -59,36 +49,32 @@
         }
 
         h2 {
-            color: #4dcfff; /* Light blue color for section headings */
+            color: #4dcfff;
             border-bottom: 2px solid #4dcfff;
             padding-bottom: 10px;
             margin-bottom: 20px;
         }
 
-        /*
-            Styling for the social media icons
-        */
+       
         .social-icons {
             display: flex;
             justify-content: center;
-            gap: 30px; /* Space between icons */
+            gap: 30px;
             margin-top: 20px;
         }
 
         .social-icons a {
-            color: #FFFFFF; /* White icons */
-            font-size: 2.5em; /* Large icon size */
+            color: #FFFFFF; 
+            font-size: 2.5em; 
             transition: color 0.3s ease-in-out, transform 0.3s ease-in-out;
         }
 
         .social-icons a:hover {
-            color: #4dcfff; /* Change color on hover */
-            transform: scale(1.1); /* Slightly enlarge on hover */
+            color: #4dcfff; 
+            transform: scale(1.1);
         }
 
-        /*
-            Styling for the footer
-        */
+       
         footer {
             padding: 10px;
             background: #000000;
