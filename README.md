@@ -12,7 +12,7 @@
         */
         body {
             /* Using an external image for a space background */
-            background-image: url('https://images.unsplash.com/photo-1509117628867-0c75c1285497?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzV8MHwxfHNlYXJjaHwzfHxkYXJrJTIwYmx1ZSUyMHNwYWNlJTIwc3RhcnN8ZW58MHx8fHwxNjcwMDA1OTIz&ixlib=rb-4.0.3&q=80&w=1080');
+            background-image: url('bluespace.jpg');
             background-size: cover; /* Ensures the image covers the entire body */
             background-attachment: fixed; /* Keeps the background static when scrolling */
             color: #FFFFFF; /* White text for contrast */
