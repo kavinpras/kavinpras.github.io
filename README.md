@@ -47,7 +47,7 @@
         h2 {
             color: #4dcfff;
             padding-bottom: 10px;
-            margin-bottom: 20px;
+            margin-bottom: 5px;
         }
 
         .social-icons {
@@ -90,8 +90,8 @@
     <main>
         <section class="about-me">
             <h2>About Me</h2>
-            <p>Hello! I'm Kavin, a student at Claremont McKenna College with a passion for the pursuit of knowledge.</p>
-            <p>I am also on two CMS teams: Football and Track&Field.</p>
+            <p>Hello! I'm Kavin Prasanna, a student at Claremont McKenna College with a passion for the pursuit of knowledge. I'm a third-year Engineering & Economics 			student with an interest in the aerospace industry My favorite classes that I have taken during my time at CMC are Modern Physics and Psychology. I love 			watching movies with friends, listening to music while outside, and getting dinner with my teammates.</p>
+            <p>Also at Claremont, I compete for the CMS Football and Track & Field teams. I play linebacker for the Stags in the Fall and throw in the Spring. I really enjoy 		competing year round; it keeps me in shape and it's a good way to never be bored. </p>
         </section>
 
         <!-- Social Media Contact Section using Image Tags -->
@@ -99,7 +99,6 @@
             <h2>Connect with Me</h2>
             <div class="social-icons">
                 
-                <!-- Instagram Image Icon -->
                 <a href="https://instagram.com/_kavin44" target="_blank" aria-label="Instagram Profile">
                     <img src="Instagram_icon.png" alt="Instagram Icon" class="social-icon">
                 </a>
@@ -117,9 +116,5 @@
             </div>
         </section>
     </main>
-
-    <footer>
-        <p>&copy; 2025 Kavin Prasanna</p>
-    </footer>
 </body>
 </html>
