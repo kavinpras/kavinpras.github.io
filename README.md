@@ -63,10 +63,6 @@
             border-radius: 5px;
         }
 
-        .social-icon:hover {
-            transform: scale(1.1);
-        }
-
     </style>
 </head>
 <body>
