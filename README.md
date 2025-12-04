@@ -110,8 +110,8 @@
     <main>
         <section class="about-me">
             <h2>About Me</h2>
-            <p>Hello! I'm **Kavin**, a student at **Claremont McKenna College** with a passion for the pursuit of **knowledge and monetary goods**.</p>
-            <p>I've been **hustling for over 5 years** and love what I do. My motto is **Risktaker, Roadrunner & Hustler**.</p>
+            <p>Hello! I'm Kavin Prasanna, a student at Claremont McKenna College with a passion for the pursuit of knowledge.</p>
+            <p>I am also on two CMS teams: Football and Track&Field.</p>
         </section>
 
         <section class="contact">
