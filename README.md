@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kavin Prasanna - Bio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
     <style>
         body {
@@ -107,7 +106,7 @@
                     <i class="fab fa-instagram"></i>
                 </a>
                 <a href="https://linkedin.com/in/kavinprasanna" target="_blank" aria-label="LinkedIn Profile">
-                    <i class="fab fa-linkedin-in"></i>
+                    <img class="social-icon" src="linkedinicon.png" alt="LinkedIn">
                 </a>
                 <a href="mailto:kavinprasanna44@gmail.com" target="_blank" aria-label="Send Email">
                     <i class="fas fa-envelope"></i>
