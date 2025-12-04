@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -31,7 +31,6 @@
         .hero h1 {
             font-size: 4.5em;
             margin: 0;
-            text-shadow: 0 0 10px #007bff, 0 0 20px #007bff;
         }
 
        
@@ -50,7 +49,6 @@
 
         h2 {
             color: #4dcfff;
-            border-bottom: 2px solid #4dcfff;
             padding-bottom: 10px;
             margin-bottom: 20px;
         }
