@@ -12,7 +12,7 @@
         */
         body {
             /* Using an external image for a space background */
-            background-image: href="bluespace.jpg";
+            background-image: url('https://images.unsplash.com/photo-1509117628867-0c75c1285497?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzV8MHwxfHNlYXJjaHwzfHxkYXJrJTIwYmx1ZSUyMHNwYWNlJTIwc3RhcnN8ZW58MHx8fHwxNjcwMDA1OTIz&ixlib=rb-4.0.3&q=80&w=1080');
             background-size: cover; /* Ensures the image covers the entire body */
             background-attachment: fixed; /* Keeps the background static when scrolling */
             color: #FFFFFF; /* White text for contrast */
@@ -103,8 +103,6 @@
 </head>
 <body>
 
-HELOOOOOOOOOOOOOO
-
     <header class="hero">
         <h1>I'm Kavin Prasanna</h1>
     </header>
@@ -112,8 +110,8 @@ HELOOOOOOOOOOOOOO
     <main>
         <section class="about-me">
             <h2>About Me</h2>
-            <p>Hello! I'm Kavin, a student at Claremont McKenna College with a passion for the pursuit of knowledge and monetary goods.</p>
-            <p>This is my third year at the college. I play on the CMS Football and Track&Field teams.</p>
+            <p>Hello! I'm **Kavin**, a student at **Claremont McKenna College** with a passion for the pursuit of **knowledge and monetary goods**.</p>
+            <p>I've been **hustling for over 5 years** and love what I do. My motto is **Risktaker, Roadrunner & Hustler**.</p>
         </section>
 
         <section class="contact">
