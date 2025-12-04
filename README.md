@@ -19,7 +19,7 @@
         }
 
         .hero {
-            min-height: 50vh;
+            min-height: 90vh;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -112,7 +112,6 @@
                 <a href="mailto:kavinprasanna44@gmail.com" target="_blank" aria-label="Send Email">
                     <i class="fas fa-envelope"></i>
                 </a>
-		Email: <a href="mailto:gtfoster2@gmail.com">gtfoster2@gmail.com</a>
             </div>
         </section>
     </main>
