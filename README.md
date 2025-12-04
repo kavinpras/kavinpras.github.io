@@ -34,7 +34,7 @@
         main {
             padding: 40px 20px;
             background: rgba(0, 0, 0, 0.75);
-            border-top: 5px solid #007bff;
+           <!-- border-top: 5px solid #007bff; --!>
             box-shadow: 0 -10px 20px rgba(0, 0, 0, 0.5);
         }
 
@@ -59,8 +59,7 @@
 
         .social-icon {
             width: 50px;
-            height: 50px;
-            transition: transform 0.2s ease-in-out; 
+            height: 50px; 
             border-radius: 5px;
         }
 
@@ -68,22 +67,11 @@
             transform: scale(1.1);
         }
 
-        footer {
-            padding: 10px;
-            background: #000000;
-            border-top: 1px solid #222;
-            font-size: 0.8em;
-        }
-
-        footer p {
-            margin: 0;
-        }
     </style>
 </head>
 <body>
 
     <header class="hero">
-        <!-- The main title, centered and prominent -->
         <h1>I'm Kavin Prasanna</h1>
     </header>
 
@@ -94,7 +82,6 @@
             <p>Also at Claremont, I compete for the CMS Football and Track & Field teams. I play linebacker for the Stags in the Fall and throw in the Spring. I really enjoy 		competing year round; it keeps me in shape and it's a good way to never be bored. </p>
         </section>
 
-        <!-- Social Media Contact Section using Image Tags -->
         <section class="contact">
             <h2>Connect with Me</h2>
             <div class="social-icons">
@@ -103,12 +90,10 @@
                     <img src="Instagram_icon.png" alt="Instagram Icon" class="social-icon">
                 </a>
                 
-                <!-- LinkedIn Image Icon -->
                 <a href="https://linkedin.com/in/" target="_blank" aria-label="LinkedIn Profile">
                     <img src="linkedinicon.png" alt="LinkedIn Icon" class="social-icon">
                 </a>
-                
-                <!-- Gmail Image Icon -->
+      
                 <a href="mailto:44@gmail.com" target="_blank" aria-label="Send Email">
                     <img src="gmail icon.png" alt="Gmail Icon" class="social-icon">
                 </a>
