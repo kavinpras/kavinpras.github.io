@@ -1,13 +1,11 @@
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kavin Prasanna - Bio</title>
     
     <style>
-        /* BASE STYLES */
         body {
-            /* Keep the custom background image */
             background-image: url('bluespace.jpg');
             background-size: cover;
             background-attachment: fixed;
@@ -18,7 +16,6 @@
             text-align: center;
         }
 
-        /* HEADER & HERO SECTION */
         .hero {
             min-height: 90vh;
             display: flex;
@@ -32,10 +29,8 @@
         .hero h1 {
             font-size: 4.5em;
             margin: 0;
-            /* Text shadow/glow removed for simplicity */
         }
 
-        /* MAIN CONTENT */
         main {
             padding: 40px 20px;
             background: rgba(0, 0, 0, 0.75);
@@ -51,12 +46,10 @@
 
         h2 {
             color: #4dcfff;
-            /* Underline removed for simplicity */
             padding-bottom: 10px;
             margin-bottom: 20px;
         }
 
-        /* SOCIAL ICON STYLES */
         .social-icons {
             display: flex;
             justify-content: center;
@@ -64,20 +57,17 @@
             margin-top: 20px;
         }
 
-        /* CUSTOM IMAGE SIZE (50px by 50px) */
         .social-icon {
             width: 50px;
             height: 50px;
-            /* Simple transition for hover effect */
             transition: transform 0.2s ease-in-out; 
-            border-radius: 5px; /* Added rounded corners */
+            border-radius: 5px;
         }
 
         .social-icon:hover {
             transform: scale(1.1);
         }
 
-        /* FOOTER */
         footer {
             padding: 10px;
             background: #000000;
